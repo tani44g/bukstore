@@ -1,0 +1,32 @@
+p{
+    font-size: 23px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.main{
+    position: relative;
+    top: 100px;
+    left: 14%;
+    height: 40%;
+    width: 70%;
+    min-width: 500px;
+    min-height: 100px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+form{
+    margin: auto;
+    padding: 20px;
+}
+
+h1{
+    padding-left: 30%;
+    padding-bottom: 40px;
+    color: white;
+}
+
+button{
+    padding-top: 40px;
+}
